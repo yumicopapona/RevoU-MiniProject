@@ -12,6 +12,11 @@ form {
     background-color: aquamarine;
 }
 
+.material-icons{
+  position: relative;
+ 	top: 8px;
+}
+
 .input-field {
     width: 95%;
     padding: 8px 10px;
