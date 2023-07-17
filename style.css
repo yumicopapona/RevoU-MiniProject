@@ -27,7 +27,7 @@ form {
     margin: 5px 0px;
   }
 
-input[type="button"],input[type="submit"] {
+  button[type="submit"] {
   background-color: rgb(70, 162, 219);
   border: none;
   color: white;
@@ -39,7 +39,7 @@ input[type="button"],input[type="submit"] {
   font-size: medium;
 }
 
-input[type="reset"] {
+button[type="reset"] {
   background-color: white;
   border-color: rgb(239, 236, 236);
   border-style: ridge;
